@@ -1,0 +1,138 @@
+# Translation of Plugins - Remove Footer Credit - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Remove Footer Credit - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-09 11:41:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Remove Footer Credit - Stable (latest release)\n"
+
+#. Translators: Welcome Screen Description.
+#: remove-footer-credit.php:194
+msgid "Remove or replace footer credits (or any text or HTML in page) before page is rendered. With this plugin there is no need to modify code such as footer.php which if done incorrectly can cause your site to break or new theme updates will stomp over your changes requiring you to remove footer credits on each update."
+msgstr "Remove or replace footer credits (or any text or HTML in page) before page is rendered. With this plugin there is no need to modify code such as footer.php, which if done incorrectly can cause your site to break or new theme updates will stomp over your changes requiring you to remove footer credits on each update."
+
+#: remove-footer-credit.php:181
+msgid "Settings Saved"
+msgstr "Settings Saved"
+
+#: remove-footer-credit.php:63
+msgid "Other Great Plugins"
+msgstr "Other Great Plugins"
+
+#: remove-footer-credit.php:59
+msgid "Settings"
+msgstr "Settings"
+
+#: sections/plugins.php:94
+msgid "Find out more"
+msgstr "Find out more"
+
+#: sections/plugins.php:71
+msgid "Activate"
+msgstr "Activate"
+
+#: sections/plugins.php:67 sections/plugins.php:92
+msgid "Activated"
+msgstr "Activated"
+
+#: sections/plugins.php:58
+msgid "Install & Activate"
+msgstr "Install & Activate"
+
+#: sections/plugins.php:6
+msgid "Modula is currently the easiest and fastest photo gallery plugin for WordPress. With its wizard you are able to build an image gallery in a few seconds, unlike many other WordPress gallery plugins."
+msgstr "Modula is currently the easiest and fastest photo gallery plugin for WordPress. With its wizard you are able to build an image gallery in a few seconds, unlike many other WordPress gallery plugins."
+
+#: sections/plugins.php:5
+msgid "Modula - A WordPress Gallery Plugin"
+msgstr "Modula - A WordPress Gallery Plugin"
+
+#: sections/plugin-info.php:13
+msgid "to view instructions on how to use this plugin."
+msgstr "to view instructions on how to use this plugin."
+
+#: sections/plugin-info.php:13
+msgid "Click here"
+msgstr "Click here"
+
+#: sections/plugin-info.php:12
+msgid "Learn"
+msgstr "Learn"
+
+#: sections/plugin-info.php:10
+msgid "here"
+msgstr "here"
+
+#: sections/plugin-info.php:10
+msgid "Need help using this plugin or want to report a bug? Contact me"
+msgstr "Need help using this plugin or want to report a bug? Contact me"
+
+#: remove-footer-credit.php:67 sections/plugin-info.php:9
+msgid "Get Help"
+msgstr "Get Help"
+
+#. Description of the plugin
+msgid "A simple plugin to remove footer credits"
+msgstr "A simple plugin to remove footer credits"
+
+#. Plugin Name of the plugin
+#: remove-footer-credit.php:135 remove-footer-credit.php:191
+msgid "Remove Footer Credit"
+msgstr "Remove Footer Credit"
+
+#: remove-footer-credit.php:126
+msgid "MachoThemes.com"
+msgstr "MachoThemes.com"
+
+#: remove-footer-credit.php:126
+msgid "Get WordPress help, plugins, themes and tips at "
+msgstr "Get WordPress help, plugins, themes and tips at "
+
+#: sections/settings.php:55
+msgid "Get WordPress help, plugins, themes and tips at"
+msgstr "Get WordPress help, plugins, themes and tips at"
+
+#: sections/settings.php:54
+msgid "The text below will appear at the bottom of the selected post/page."
+msgstr "The text below will appear at the bottom of the selected post/page."
+
+#: sections/settings.php:46
+msgid "-- Pages --"
+msgstr "-- Pages --"
+
+#: sections/settings.php:40
+msgid "-- Posts --"
+msgstr "-- Posts --"
+
+#: sections/settings.php:37
+msgid "Select a post/page:"
+msgstr "Select a post/page:"
+
+#: sections/settings.php:14
+msgid "Yes, I will support you!"
+msgstr "Yes, I will support you!"
+
+#: sections/settings.php:13
+msgid "No, thanks."
+msgstr "No, thanks."
+
+#: sections/settings.php:12
+msgid "Help keep this plugin free by providing one link back at the bottom of one of your posts/pages."
+msgstr "Help keep this plugin free by providing one link back at the bottom of one of your posts/pages."
+
+#: sections/settings.php:11
+msgid "Step 3: Please support my work and spread the word (optional)"
+msgstr "Step 3: please support my work and spread the word (optional)"
+
+#: sections/settings.php:9
+msgid "Step 2: Enter your own footer credit (one per line)"
+msgstr "Step 2: enter your own footer credit (one per line)"
+
+#: sections/settings.php:7
+msgid "Step 1: Enter text/HTML to remove (one per line)"
+msgstr "Step 1: enter text/HTML to remove (one per line)"

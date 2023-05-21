@@ -1,0 +1,60 @@
+#customize-controls .control-section-tiffany .accordion-section-title:hover,
+#customize-controls .control-section-tiffany .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-tiffany .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+.rtl .control-section-tiffany .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+/* ---------Customizer--------- */
+a.button.button-secondary.alignright {
+  background: #006799;
+  color: #fff;
+  border: solid 1px #0073aa;
+  font-size: 15px;
+  padding: 0 20px;
+}
+a.button.button-secondary.alignright:hover {
+	background: #0073aa;
+}
+
+/* ---------Excerpt & Logo --------- */
+input#_customize-input-logo_size,
+input#_customize-input-tiffany_lite_excerpt_number,
+input#_customize-input-tiffany_lite_wooproducts_border_radius,
+input#_customize-input-tiffany_lite_wooproducts_box_shadow,
+input#_customize-input-tiffany_lite_product_button_border_radius,
+input#_customize-input-tiffany_lite_slider_speed_option{
+    width: 100%;
+}
+li#customize-control-logo_size {
+    background: #fff;
+    padding: 4px;
+}
+input#_customize-input-tiffany_lite_button_padding_top_bottom, 
+input#_customize-input-tiffany_lite_button_padding_left_right,
+input#_customize-input-tiffany_lite_button_border_radius,
+ input#_customize-input-tiffany_lite_copyright_padding,
+input#_customize-input-tiffany_lite_scroll_font_size_icon,
+input#_customize-input-tiffany_lite_footer_content_font_size,
+input#_customize-input-tiffany_lite_excerpt_number,
+input#_customize-input-tiffany_lite_slider_excerpt_length,
+input#_customize-input-tiffany_lite_site_title_size_option,
+input#_customize-input-tiffany_lite_site_tagline_size_option{
+  width: 30%;
+  float:right;
+}
+.customize-control-title{
+  display: inline-block;
+}
+ul#sub-accordion-section-tiffany_lite_product_button_section{
+  border: none !important;
+}
+
